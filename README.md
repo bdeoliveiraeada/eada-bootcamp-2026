@@ -1,6 +1,6 @@
 # CreditLens · Credit Risk Intelligence
 
-CreditLens is an academic project that demonstrates an end-to-end classification workflow using the [“Credit Risk Dataset” shared on Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset). It includes a standalone interactive estimate, dataset overview, exploratory data analysis, and a plain-language model comparison.
+CreditLens is my Bootcamp project for Software Engineering that demonstrates a classification workflow using the [“Credit Risk Dataset” shared on Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset). It includes an interactive estimate, dataset overview, an exploratory data analysis, and a plain-language model comparison.
 
 ## View the app
 

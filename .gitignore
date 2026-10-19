@@ -1,0 +1,8 @@
+# Keep the downloaded source data and local runtime packages out of GitHub.
+credit_risk_dataset.csv
+.creditlens_packages/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+sources/

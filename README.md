@@ -4,7 +4,7 @@ CreditLens is my Bootcamp project for Software Engineering that demonstrates a c
 
 ## View the app
 
-Open [`index.html`](index.html) in a modern browser. The report is self-contained: charts, fitted logistic-regression parameters, and analysis are embedded in the file. It works locally without a server or network connection. `CreditLens.html` is the same ready-to-open app; `template.html` is the source template used to regenerate it.
+Open [`CreditLensEADA.html`](file:///Users/biafreitas/.codex/.chatgpt-projects/g-p-6ad5c7e1e24c8191ac746fcd9737143e/CreditLens.html#risk) in a modern browser. The report is self-contained: charts, fitted logistic-regression parameters, and analysis are embedded in the file. It works locally without a server or network connection. `CreditLens.html` is the same ready-to-open app; `template.html` is the source template used to regenerate it.
 
 ## Rebuild from the CSV
 
